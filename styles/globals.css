@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*add custome css here*/
 html,
 body {
   padding: 0;
